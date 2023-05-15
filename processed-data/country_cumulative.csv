@@ -1,0 +1,34 @@
+country_abbr,country,date,event,position,time,period,points,currently_used,current_rank,mixed_slot,qualification,cumulative
+GBR,Great Britain,2022-06-11,2022 World Triathlon Championship Series Leeds,2,1:28:14,first,740,Yes,1,Yes,Qualified,740
+FRA,France,2022-06-11,2022 World Triathlon Championship Series Leeds,3,1:28:20,first,685,Yes,2,Yes,Qualified,685
+GER,Germany,2022-06-11,2022 World Triathlon Championship Series Leeds,1,1:28:00,first,800,Yes,3,No,On Track to Qualify,800
+AUS,Australia,2022-06-11,2022 World Triathlon Championship Series Leeds,6,1:28:49,first,542,Yes,6,No,On Track to Qualify,542
+USA,United States,2022-06-11,2022 World Triathlon Championship Series Leeds,9,1:30:17,first,429,Yes,7,No,On Track to Qualify,429
+ITA,Italy,2022-06-11,2022 World Triathlon Championship Series Leeds,4,1:28:32,first,633,Yes,8,No,On Track to Qualify,633
+POR,Portugal,2022-06-11,2022 World Triathlon Championship Series Leeds,8,1:29:52,first,464,Yes,9,No,On Track to Qualify,464
+BEL,Belgium,2022-06-11,2022 World Triathlon Championship Series Leeds,5,1:28:40,first,586,Yes,10,No,Not on Track to Qualify,586
+GBR,Great Britain,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,2,1:27:37,first,925,Yes,1,Yes,Qualified,1665
+FRA,France,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,1,1:27:14,first,1000,Yes,2,Yes,Qualified,1685
+NZL,New Zealand,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,4,1:27:53,first,791,Yes,4,No,On Track to Qualify,791
+SUI,Switzerland,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,6,1:29:11,first,677,Yes,5,No,On Track to Qualify,677
+USA,United States,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,3,1:27:44,first,856,Yes,7,No,On Track to Qualify,1285
+ITA,Italy,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,9,1:29:34,first,536,Yes,8,No,On Track to Qualify,1169
+POR,Portugal,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,8,1:29:32,first,579,Yes,9,No,On Track to Qualify,1043
+DEN,Denmark,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,7,1:29:22,first,626,Yes,11,No,Not on Track to Qualify,626
+GBR,Great Britain,2022-07-09,2022 World Triathlon Championship Series Hamburg,1,1:20:50,first,800,Yes,1,Yes,Qualified,2465
+GER,Germany,2022-07-09,2022 World Triathlon Championship Series Hamburg,3,1:21:10,first,685,Yes,3,No,On Track to Qualify,1485
+NZL,New Zealand,2022-07-09,2022 World Triathlon Championship Series Hamburg,5,1:22:12,first,586,Yes,4,No,On Track to Qualify,1377
+SUI,Switzerland,2022-07-09,2022 World Triathlon Championship Series Hamburg,4,1:21:26,first,633,Yes,5,No,On Track to Qualify,1310
+AUS,Australia,2022-07-09,2022 World Triathlon Championship Series Hamburg,2,1:21:03,first,740,Yes,6,No,On Track to Qualify,1282
+BEL,Belgium,2022-07-09,2022 World Triathlon Championship Series Hamburg,12,1:24:38,first,339,Yes,10,No,Not on Track to Qualify,925
+DEN,Denmark,2022-07-09,2022 World Triathlon Championship Series Hamburg,9,1:23:32,first,429,Yes,11,No,Not on Track to Qualify,1055
+FRA,France,2022-08-12,2022 Europe Triathlon Championships Munich,1,1:25:30,first,650,Yes,2,Yes,Qualified,2335
+GER,Germany,2022-08-12,2022 Europe Triathlon Championships Munich,2,1:26:03,first,601,Yes,3,No,On Track to Qualify,2086
+SUI,Switzerland,2022-08-12,2022 Europe Triathlon Championships Munich,3,1:26:19,first,556,Yes,5,No,On Track to Qualify,1866
+ITA,Italy,2022-08-12,2022 Europe Triathlon Championships Munich,11,1:28:50,first,298,Yes,8,No,On Track to Qualify,1467
+POR,Portugal,2022-08-12,2022 Europe Triathlon Championships Munich,7,1:27:31,first,407,Yes,9,No,On Track to Qualify,1450
+BEL,Belgium,2022-08-12,2022 Europe Triathlon Championships Munich,4,1:27:01,first,514,Yes,10,No,Not on Track to Qualify,1439
+DEN,Denmark,2022-08-12,2022 Europe Triathlon Championships Munich,9,1:27:59,first,348,Yes,11,No,Not on Track to Qualify,1403
+USA,United States,2022-10-29,2022 Americas Triathlon Championships Montevideo,4,,first,463,Yes,7,No,On Track to Qualify,1748
+NZL,New Zealand,2023-02-26,2023 Oceania Triathlon Mixed Relay Championships Taupo,1,,first,540,Yes,4,No,On Track to Qualify,1917
+AUS,Australia,2023-02-26,2023 Oceania Triathlon Mixed Relay Championships Taupo,2,,first,500,Yes,6,No,On Track to Qualify,1782

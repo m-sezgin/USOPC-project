@@ -1,0 +1,41 @@
+country_abbr,country,date,event,position,time,period,points,currently_used,current_rank,mixed_slot
+GBR,Great Britain,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,2,1:27:37,first,925,Yes,1,Yes
+GBR,Great Britain,2022-07-09,2022 World Triathlon Championship Series Hamburg,1,1:20:50,first,800,Yes,1,Yes
+GBR,Great Britain,2022-06-11,2022 World Triathlon Championship Series Leeds,2,1:28:14,first,740,Yes,1,Yes
+GBR,Great Britain,2022-08-12,2022 Europe Triathlon Championships Munich,12,1:29:14,first,276,No,1,Yes
+FRA,France,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,1,1:27:14,first,1000,Yes,2,Yes
+FRA,France,2022-06-11,2022 World Triathlon Championship Series Leeds,3,1:28:20,first,685,Yes,2,Yes
+FRA,France,2022-08-12,2022 Europe Triathlon Championships Munich,1,1:25:30,first,650,Yes,2,Yes
+FRA,France,2022-07-09,2022 World Triathlon Championship Series Hamburg,7,1:22:53,first,501,No,2,Yes
+GER,Germany,2022-06-11,2022 World Triathlon Championship Series Leeds,1,1:28:00,first,800,Yes,3,No
+GER,Germany,2022-07-09,2022 World Triathlon Championship Series Hamburg,3,1:21:10,first,685,Yes,3,No
+GER,Germany,2022-08-12,2022 Europe Triathlon Championships Munich,2,1:26:03,first,601,Yes,3,No
+NZL,New Zealand,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,4,1:27:53,first,791,Yes,4,No
+NZL,New Zealand,2022-07-09,2022 World Triathlon Championship Series Hamburg,5,1:22:12,first,586,Yes,4,No
+NZL,New Zealand,2023-02-26,2023 Oceania Triathlon Mixed Relay Championships Taupo,1,,first,540,Yes,4,No
+NZL,New Zealand,2022-06-11,2022 World Triathlon Championship Series Leeds,12,1:30:55,first,339,No,4,No
+SUI,Switzerland,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,6,1:29:11,first,677,Yes,5,No
+SUI,Switzerland,2022-07-09,2022 World Triathlon Championship Series Hamburg,4,1:21:26,first,633,Yes,5,No
+SUI,Switzerland,2022-08-12,2022 Europe Triathlon Championships Munich,3,1:26:19,first,556,Yes,5,No
+AUS,Australia,2022-07-09,2022 World Triathlon Championship Series Hamburg,2,1:21:03,first,740,Yes,6,No
+AUS,Australia,2022-06-11,2022 World Triathlon Championship Series Leeds,6,1:28:49,first,542,Yes,6,No
+AUS,Australia,2023-02-26,2023 Oceania Triathlon Mixed Relay Championships Taupo,2,,first,500,Yes,6,No
+AUS,Australia,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,10,1:29:37,first,496,No,6,No
+USA,United States,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,3,1:27:44,first,856,Yes,7,No
+USA,United States,2022-10-29,2022 Americas Triathlon Championships Montevideo,4,,first,463,Yes,7,No
+USA,United States,2022-06-11,2022 World Triathlon Championship Series Leeds,9,1:30:17,first,429,Yes,7,No
+USA,United States,2022-07-09,2022 World Triathlon Championship Series Hamburg,13,1:24:38,first,314,No,7,No
+ITA,Italy,2022-06-11,2022 World Triathlon Championship Series Leeds,4,1:28:32,first,633,Yes,8,No
+ITA,Italy,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,9,1:29:34,first,536,Yes,8,No
+ITA,Italy,2022-08-12,2022 Europe Triathlon Championships Munich,11,1:28:50,first,298,Yes,8,No
+ITA,Italy,2022-07-09,2022 World Triathlon Championship Series Hamburg,15,1:25:28,first,269,No,8,No
+POR,Portugal,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,8,1:29:32,first,579,Yes,9,No
+POR,Portugal,2022-06-11,2022 World Triathlon Championship Series Leeds,8,1:29:52,first,464,Yes,9,No
+POR,Portugal,2022-08-12,2022 Europe Triathlon Championships Munich,7,1:27:31,first,407,Yes,9,No
+BEL,Belgium,2022-06-11,2022 World Triathlon Championship Series Leeds,5,1:28:40,first,586,Yes,10,No
+BEL,Belgium,2022-08-12,2022 Europe Triathlon Championships Munich,4,1:27:01,first,514,Yes,10,No
+BEL,Belgium,2022-07-09,2022 World Triathlon Championship Series Hamburg,12,1:24:38,first,339,Yes,10,No
+DEN,Denmark,2022-06-24,2022 World Triathlon Sprint & Relay Championships Montreal,7,1:29:22,first,626,Yes,11,No
+DEN,Denmark,2022-07-09,2022 World Triathlon Championship Series Hamburg,9,1:23:32,first,429,Yes,11,No
+DEN,Denmark,2022-08-12,2022 Europe Triathlon Championships Munich,9,1:27:59,first,348,Yes,11,No
+DEN,Denmark,2022-06-11,2022 World Triathlon Championship Series Leeds,13,1:31:17,first,314,No,11,No
