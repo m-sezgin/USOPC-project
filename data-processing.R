@@ -73,7 +73,6 @@ country_clean <- country_ranking |>
   filter(currently_used == "Yes") |>
   mutate(cumulative = cumsum(points)) 
 
-
 # save datasets -----------------------------------------------------------
 
 write_csv(women_clean, "processed-data/women_cumulative.csv")
